@@ -2,7 +2,7 @@
 
 Problem 1
 
-Codes file is matmul.py. Since I was not sure how to make the function more cache-friendly, I tried four different versions of matrix multiplication.
+Codes file is matmul.py. Since I was not sure which is the mest method to make the function more cache-friendly, I tried four different versions of matrix multiplication.
 
 The resulting "time vs sizeN" plot is "result.png"
 
